@@ -1,0 +1,10 @@
+.border{
+    border:1px solid red
+}
+
+.w-full{
+    width: 100%;
+}
+button{
+    margin: 10px;
+}
