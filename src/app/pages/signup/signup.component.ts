@@ -61,6 +61,8 @@ export class SignupComponent implements OnInit {
           // })          
           
       },
+
+      // if error occure
       (error)=>{
           console.log(error);
           Swal.fire('Something Went Wrong') 
